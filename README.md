@@ -101,4 +101,16 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/Muzzle1.png" width="500">
+<img src="GHimages/Muzzle2.png" width="500">
+<img src="GHimages/Muzzle3.png" width="500">
+<img src="GHimages/MuzzleOptions.png" width="500">
+<img src="GHimages/SLAB%20pic.png" width="500">
+<img src="GHimages/SLABOptions.png" width="500">
+<img src="GHimages/StockButts.png" width="500">
+<img src="GHimages/SLAB%203%20v84%201.png" width="500">
+<img src="GHimages/SLAB%203%20v84%2010.png" width="500">
+<img src="GHimages/SLAB%203%20v84%2011.png" width="500">
+<img src="GHimages/SLAB%203%20v84%2012.png" width="500">
+<img src="GHimages/SLAB%203%20v84%202.png" width="500">
+<img src="GHimages/SLAB%203%20v84%203.png" width="500">
