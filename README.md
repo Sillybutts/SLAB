@@ -23,6 +23,13 @@ As with many of my other designs, the SLAB is an amalgamation of several design 
 - Skewer magwell
 - Caliburn and Talon Claw priming bars used as reinforcement
 
+For sights, I recommend you use some picatinny iron sights or a red dot sight. Some good picatinny sights:
+- https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
+- https://www.thingiverse.com/thing:1667830
+- https://www.thingiverse.com/thing:2829229
+- https://www.thingiverse.com/thing:5103083
+I will eventually make my own iron sights for this blaster.
+
 ## Hardware, Compatability, and Availability
 
 Hardware is available from these sellers:
