@@ -5,9 +5,19 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 ## Description
 
-General blaster overview: 
+General blaster overview: https://youtu.be/oZG_x506SXU
 
+The SLAB is a lever action, Talon mag fed, half dart springer.
 
+As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
+- SillyPistol plunger, catch, and top slide as handguard
+- Lynx turnaround
+- Vikinger custom FLAK stock
+- FLAK lever & trigger
+- Chimera mk7 trigger linkage
+- Medusa magwell-to-lever connection (previously done by the FLAK)
+- Skewer magwell
+- Caliburn and Talon Claw priming bars used as reinforcement
 
 ## Hardware, Compatability, and Availability
 
@@ -21,15 +31,11 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 ### Hardware notes:
 
-Super glue is also needed to keep the plunger tube attached. Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
-
-The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788, k25, k26, and probably k14.
-
-The Lynx thumb screw and nut aren't 100% needed. 
-
-A long (2 inch) takedown pin can be cut down to the medium and short takedown pin sizes.
-
-Small cotter pins to keep the takedown pins in place are nice to have, but you could use filament or twisted wire or whatever instead.
+- Super glue is also needed to keep the plunger tube attached. Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
+- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788, k25, k26, and probably k14.
+- The Lynx thumb screw and nut aren't 100% needed. 
+- A long (2 inch) takedown pin can be cut down to the medium and short takedown pin sizes.
+- Small cotter pins to keep the takedown pins in place are nice to have, but you could use filament or twisted wire or whatever instead.
 
 ## Printing Info
 
@@ -37,27 +43,33 @@ All STLs were exported in print orientation. F3D & STEP source files are also pr
 
 The Trigger, CatchPusher, GripPanels and LeverBody parts need supports.
 
-The LIST parts require brims.
+The Rail, Ram, RodCap, PrintedPin, and PinCap parts require brims.
 
 This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but can lead to broken parts.
 
 Infills:
 - Black: 
--- All 20% Gyroid, 5 walls. 
--- Grip panels need supports.
+- - PlungerRods 100% Gyroid, 5+ walls.
+- - StockButts, 10% Gyroid, 3 walls.
+- - Everything else, 20% Gyroid, 5 walls. 
+- - GripPanels need support.
 
 - White: 
--- All at 20% Gyroid, 5 walls. 
--- Rail needs a brim, and MUST be printed on it's end.
+- - All at 20% Gyroid, 5 walls. 
+- - Rail needs a brim, and MUST be printed on it's end.
 
 - Orange: 
--- All except LeverBody, Ram, Catch, and CatchPusher at 20% Gyroid, 5 walls. 
--- LeverBody, Ram, Catch, and CatchPusher 100% 5 walls. 
+- - LeverBody, Ram, Catch, and CatchPusher 100% 5 walls. 
+- - LeverBody, CatchPusher, Trigger need supports.
+- - Everything else, 20% Gyroid, 5 walls. 
+- - RodCap, PrintedPin, PinCap, and Ram need brims.
+- - The optional Bottlenose wSling and FrontSling parts need 5 walls 100% infill.
 
 - Green: 
--- All except StockPanels and StockCores at 20% Gyroid, 5 walls. 
--- StockPanels and StockCores at 10% gyroid, 4 walls. 
--- Handguard needs supports.
+- - StockPanels and StockCores at 10% gyroid, 4 walls. 
+- - PrimeTransferBar (x2), 100% Gyroid, 5 walls.
+- - Everything else, 20% Gyroid, 5 walls. 
+- - Handguard needs supports.
 
 ## Assembly
 
