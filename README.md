@@ -74,7 +74,7 @@ Infills:
 - - LeverBody, CatchPusher, Trigger need supports.
 - - Everything else, 20% Gyroid, 5 walls. 
 - - RodCap, PrintedPin, PinCap, and Ram need brims.
-- - The optional Bottlenose wSling and FrontSling parts need 5 walls 100% infill.
+- - The optional Bottlenose wSling and FrontSling parts need 5 walls 100% infill. The Bottlenose and Bottlenose wSling also need supports.
 
 - Green: 
 - - StockPanels and StockCores at 10% gyroid, 4 walls. 
