@@ -3,6 +3,10 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 # THIS DESIGN IS IN CLOSED BETA. DO NOT PRINT UNLESS I TOLD YOU TO. PARTS WILL NOT BE FINISHED, STUFF WILL BE BAD, UNLESS I TOLD YOU TO PRINT IT.
 
+<img src="GHimages/SLAB%203%20v84%201.png" width="500">
+<img src="GHimages/SLAB%203%20v84%203.png" width="500">
+<img src="GHimages/SLABOptions.png" width="500">
+
 ## Description
 
 General blaster overview: https://youtu.be/oZG_x506SXU
@@ -71,6 +75,10 @@ Infills:
 - - Everything else, 20% Gyroid, 5 walls. 
 - - Handguard needs supports.
 
+<img src="GHimages/SLABOptions.png" width="500">
+<img src="GHimages/MuzzleOptions.png" width="500">
+<img src="GHimages/StockButts.png" width="500">
+
 ## Assembly
 
 Video: WIP
@@ -101,12 +109,11 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
+<img src="GHimages/SLABOptions.png" width="500">
+<img src="GHimages/MuzzleOptions.png" width="500">
 <img src="GHimages/Muzzle1.png" width="500">
 <img src="GHimages/Muzzle2.png" width="500">
 <img src="GHimages/Muzzle3.png" width="500">
-<img src="GHimages/MuzzleOptions.png" width="500">
-<img src="GHimages/SLAB%20pic.png" width="500">
-<img src="GHimages/SLABOptions.png" width="500">
 <img src="GHimages/StockButts.png" width="500">
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
 <img src="GHimages/SLAB%203%20v84%2010.png" width="500">
