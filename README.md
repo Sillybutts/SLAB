@@ -70,7 +70,7 @@ Infills:
 - - Rail needs a brim, and MUST be printed on it's end.
 
 - Orange: 
-- - LeverBody, Ram, Catch, and CatchPusher 100% 5 walls. 
+- - Ram, Catch, and CatchPusher 100% 5 walls. 
 - - LeverBody, CatchPusher, Trigger need supports.
 - - Everything else, 20% Gyroid, 5 walls. 
 - - RodCap, PrintedPin, PinCap, and Ram need brims.
