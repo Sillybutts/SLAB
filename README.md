@@ -19,9 +19,17 @@ Fully printed/assembled blasters are available from these sellers:
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3HkqtDI1B0x1Cw2i1hpLy2a5YOf-w4Q/
 
+### Hardware notes:
+
 Super glue is also needed to keep the plunger tube attached. Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
 
 The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788, k25, k26, and probably k14.
+
+The Lynx thumb screw and nut aren't 100% needed. 
+
+A long (2 inch) takedown pin can be cut down to the medium and short takedown pin sizes.
+
+Small cotter pins to keep the takedown pins in place are nice to have, but you could use filament or twisted wire or whatever instead.
 
 ## Printing Info
 
