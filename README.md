@@ -56,7 +56,7 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
 
-The Trigger, CatchPusher, GripPanels and LeverBody parts need supports.
+The Rail, Handguard, Trigger, CatchPusher, GripPanels and LeverBody parts need supports.
 
 The Rail, Ram, RodCap, PrintedPin, and PinCap parts require brims.
 
@@ -71,7 +71,7 @@ Infills:
 
 - White: 
 - - All at 20% Gyroid, 5 walls. 
-- - Rail needs a brim, and MUST be printed on it's end.
+- - Rail needs a brim, supports, and MUST be printed on it's end.
 
 - Orange: 
 - - RodCap, Ram, Catch, and CatchPusher 100% 5 walls. 
