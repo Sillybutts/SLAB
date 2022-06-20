@@ -7,6 +7,8 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 - Changelog: 6-17-22: Updated the Turnaround to better support the barrel
 - Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
+- Changelog: 6-20-22: Updated the Rail to be split in half for easier printing (RailA, RailB). Updated the Magwell and Turnaround to add a new part, FeedGuide. This makes the whole assembly sturdier and easier to print.
+
 
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
 <img src="GHimages/SLAB%203%20v84%203.png" width="500">
