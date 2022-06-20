@@ -2,6 +2,7 @@
 The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 # THIS DESIGN IS IN BETA. YOUR BLASTER MIGHT HAVE ISSUES, MIGHT NOT WORK, MIGHT BREAK, ETC.
+# PARTS CHANGE ON A DAILY BASIS. IF YOU WANT A FINISHED BLASTER, WAIT.
 # PRINT AT YOUR OWN RISK. SOURCE YOUR OWN HARDWARE FOR NOW, KITS COMING LATER™.
 
 - Changelog: 6-17-22: Updated the Turnaround to better support the barrel
