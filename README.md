@@ -8,7 +8,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 - Changelog: 6-17-22: Updated the Turnaround to better support the barrel
 - Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
 - Changelog: 6-20-22: Updated the Rail to be split in half for easier printing (RailA, RailB). Updated the Magwell and Turnaround to add a new part, FeedGuide. This makes the whole assembly sturdier and easier to print.
-- Changelog: 6-21-22: Apparently the Handguard, Handguard wPicatinny, MuzzleA, MuzzleB, and the TC length MuzzleB had misaligned screw holes. No idea where that got borked in the cad process lol. Uploading fixes for those at 9:10 EST.
+- Changelog: 6-21-22: Apparently the Handguard, Handguard wPicatinny, MuzzleA, MuzzleB, and the TC length MuzzleB had misaligned screw holes. No idea where that got borked in the cad process lol. Fixed the holes, and made the Handguards slightly thicker and easier to print.
 
 
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
@@ -60,9 +60,9 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
 
-The Rail, Handguard, Trigger, CatchPusher, GripPanels and LeverBody parts need supports.
+The RailA/B, Trigger, CatchPusher, GripPanel L/R and LeverBody parts need supports.
 
-The Rail, Ram, RodCap, PrintedPin, and PinCap parts require brims.
+The RailA/B, Ram, RodCap, PrintedPin, and PinCap parts require brims.
 
 This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but can lead to broken parts.
 
@@ -88,7 +88,7 @@ Infills:
 - - StockPanels and StockCores at 10% gyroid, 4 walls. 
 - - PrimeTransferBar (x2), 100% Gyroid, 5 walls.
 - - Everything else, 20% Gyroid, 5 walls. 
-- - Handguard needs supports.
+- - Handguard wPicatinny needs supports. The standard Handguard does not need supports.
 
 <img src="GHimages/SLABOptions.png" width="500">
 <img src="GHimages/MuzzleOptions.png" width="500">
