@@ -10,6 +10,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 - Changelog: 6-20-22: Updated the Rail to be split in half for easier printing (RailA, RailB). Updated the Magwell and Turnaround to add a new part, FeedGuide. This makes the whole assembly sturdier and easier to print.
 - Changelog: 6-21-22: Apparently the Handguard, Handguard wPicatinny, MuzzleA, MuzzleB, and the TC length MuzzleB had misaligned screw holes. No idea where that got borked in the cad process lol. Fixed the holes, and made the Handguards slightly thicker and easier to print.
 - Changelog: 6-22-22: Updated the TopCover's back tab to fit into the reciever notches easier. Updated the side covers to have slightly more pin clearance. 
+- Changelog: 6-30-22: Apparently the wrong Magwell part was uploaded. The new part has a separate feed lip portion. Do not print the magwell with integrated feed lips.
 
 
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
