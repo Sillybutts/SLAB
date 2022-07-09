@@ -12,6 +12,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 - Changelog: 6-22-22: Updated the TopCover's back tab to fit into the reciever notches easier. Updated the side covers to have slightly more pin clearance. 
 - Changelog: 6-30-22: Apparently the wrong Magwell part was uploaded. The new part has a separate feed lip portion. Do not print the magwell with integrated feed lips.
 - Changelog: 7-3-22: Fixed screw head relief spacing in the side cover parts that had become misaligned between the first and second prototype SLAB prints.
+- Changelog: 7-9-22: Added new Bottlenose parts with cutouts for SCAR clearance. Added some iron sights for the picatinny rail, with holes to jam filament into for extra snazziness. Edited the Turnaround to hold the barrel centered better. Added a shim/spacer for the picatinny rail, if you have a gap.
 
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
 <img src="GHimages/SLAB%203%20v84%203.png" width="500">
