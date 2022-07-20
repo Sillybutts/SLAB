@@ -4,6 +4,13 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 # BETA/UNFINISHED DESIGN, PRINT AT YOUR OWN RISK. SOURCE YOUR OWN HARDWARE FOR NOW, KITS COMING LATER™.
 <details>
   
+  
+<summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
+
+- Changelog: 1-1-22: null
+  
+</details>
+
 <summary>v3 BAR BETA VERSION Changelog (click this text, it's a dropdown!)</summary>
 
 - Changelog: 6-17-22: Updated the Turnaround to better support the barrel
@@ -51,6 +58,8 @@ Here are some good alternate Picatinny sights if you want something other than m
 ## Hardware, Compatability, and Availability
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
+
+The v3 bar BETA hardware can be converted to a release v4 hardware kit by swapping the TCv3 and Caliburn v3 bars to TC T4 and Caliburn C4 bars, and adding 3x 10-32 short screws (the ones used to hold the foregrip on Talon Claws and Caliburns).
 
 Hardware is available from these sellers:
 - SilverFoxIndustries: LINK
