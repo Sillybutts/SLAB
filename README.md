@@ -50,8 +50,10 @@ Here are some good alternate Picatinny sights if you want something other than m
 
 ## Hardware, Compatability, and Availability
 
+<img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
+
 Hardware is available from these sellers:
-- PERSON: LINK
+- SilverFoxIndustries: LINK
 
 Fully printed/assembled blasters are available from these sellers:
 - PERSON: LINK
@@ -60,11 +62,10 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 ### Hardware notes:
 
-- Super glue is also needed to keep the plunger tube attached. Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
-- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788, k25, k26, and probably k14.
-- The Lynx thumb screw and nut aren't 100% needed. 
-- A long (2 inch) takedown pin can be cut down to the medium and short takedown pin sizes.
-- Small cotter pins to keep the takedown pins in place are nice to have, but you could use filament or twisted wire or whatever instead.
+- Super glue is recommended to keep the plunger tube attached to the Turnaround. The plunger tube can also be attached by drilling 3 holes in your plunger tube and screwing it onto the Turnaround.
+- Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
+- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788 and k25. It can fit k26 and k14, but those springs likely cause durability issues for minimal meaningful performance gains.
+- Small cotter pins to keep the takedown pins in place are nice to have, but are not supplied in the kit. The printed PinCaps are held in place by a piece of filament through the holes in the cap and pin.
 
 ## Printing Info
 
