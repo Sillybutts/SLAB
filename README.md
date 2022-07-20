@@ -7,13 +7,6 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <details>
   
 <summary>v3 BAR BETA VERSION Changelog</summary>
-  
-## Changelog: 6-17-22: Updated the Turnaround to better support the barrel
-
-## Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
-
-</details>
-
 
 - Changelog: 6-17-22: Updated the Turnaround to better support the barrel
 - Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
@@ -24,7 +17,8 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 - Changelog: 7-3-22: Fixed screw head relief spacing in the side cover parts that had become misaligned between the first and second prototype SLAB prints.
 - Changelog: 7-9-22: Added new Bottlenose parts with cutouts for SCAR clearance. Added some iron sights for the picatinny rail, with holes to jam filament into for extra snazziness. Edited the Turnaround to hold the barrel centered better. Added a shim/spacer for the picatinny rail, if you have a gap.
 - Changelog: 7-20-22: Lots of changes! New muzzle with better barrel centering. New turnaround that prints nicer and lets you glue/screw the PT on easier, and put in the thumb screw nut easier. New lever variants. New ram for double o-rings. Priming Bars print nicer now. Pin caps added. Updated the trigger linkage bits to not loosen over time. Better Bottlenose parts with more barrel clearance. Longshot spring compatibility.
-
+  
+</details>
 
 <img src="GHimages/SLAB%203%20v84%201.png" width="500">
 <img src="GHimages/SLAB%203%20v84%203.png" width="500">
