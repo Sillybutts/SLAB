@@ -24,7 +24,8 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 - Changelog: 7-20-22: Lots of changes! New muzzle with better barrel centering. New turnaround that prints nicer and lets you glue/screw the PT on easier, and put in the thumb screw nut easier. New lever variants. New ram for double o-rings. Priming Bars print nicer now. Pin caps added. Updated the trigger linkage bits to not loosen over time. Better Bottlenose parts with more barrel clearance. Longshot spring compatibility.
 - Changelog: 7-22-22: Updated TriggerBlock to have a looser pivot hole.
 - Changelog: 7-23-22: Tweaked the CatchPusher's rod hole to be slightly shallower, hopefully improving trigger feel.
-  
+- Changelog: 7-24-22: Removed the PinCap part, replaced with PrintedCotterPin from Ehdrien. They work a LOT better!
+
 </details>
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
