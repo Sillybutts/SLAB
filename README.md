@@ -62,56 +62,57 @@ Here are some good alternate Picatinny sights if you want something other than m
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
 
-The v3 bar BETA hardware can be converted to a release v4 hardware kit by swapping the TCv3 and Caliburn v3 bars to TC T4 and Caliburn C4 bars, and adding 3x 10-32 short screws (the ones used to hold the foregrip on Talon Claws and Caliburns).
+The v3 bar BETA hardware can be converted to a release v4 hardware kit by swapping the TCv3 and Caliburn v3 bars to TC T4 and Caliburn C4 bars, adding 3x 10-32 short screws (the ones used to hold the foregrip on Talon Claws and Caliburns), and adding some more o-rings.
 
 Hardware is available from these sellers:
 - SilverFoxIndustries: LINK
 
 Fully printed/assembled blasters are available from these sellers:
 - PERSON: LINK
+- PERSON: LINK
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3HkqtDI1B0x1Cw2i1hpLy2a5YOf-w4Q/
 
 ### Hardware notes:
 
-- Super glue is recommended to keep the plunger tube attached to the Turnaround. The plunger tube can also be attached by drilling 3 holes in your plunger tube and screwing it onto the Turnaround.
+- Super glue or epoxy is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
-- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. It works with 788 and k25. It can fit k26 and k14, but those springs likely cause durability issues for minimal meaningful performance gains.
-- Small cotter pins to keep the takedown pins in place are nice to have, but are not supplied in the kit. The printed PinCaps are held in place by a piece of filament through the holes in the cap and pin.
+- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. The blaster also fits Longshot springs, but be careful with using super strong springs. The blaster is meant to use 788 and k25. It can fit k26 and k14, but those springs WILL cause durability issues for minimal meaningful performance gains.
+- Use the PrintedCotterPins to keep the two long takedown pins in place (the ones through the turnaround and the lever).
+- There are two very small pins. The slightly longer one is for the mag release, the slightly shorter one is for the trigger.
 
 ## Printing Info
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
 
-The RailA/B, Trigger, CatchPusher, GripPanel L/R and LeverBody parts need supports.
+The GripPanel L/R parts need supports.
 
-The RailA/B, Ram, RodCap, PrintedPin, and PinCap parts require brims.
+The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 
-This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but can lead to broken parts.
+This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
 
 Infills:
 - Black: 
-- - PlungerRods 100% Gyroid, 5+ walls.
-- - StockButts, 10% Gyroid, 3 walls.
+- - PlungerRod 100% Gyroid, 5+ walls.
+- - StockButt, 10% Gyroid, 3 walls.
 - - Everything else, 20% Gyroid, 5 walls. 
 - - GripPanels need support.
 
 - White: 
 - - All at 20% Gyroid, 5 walls. 
-- - Rail needs a brim, supports, and MUST be printed on it's end.
+- - Rails A/B need a brim and MUST be printed on the flat end.
 
 - Orange: 
-- - RodCap, Ram, Catch, and CatchPusher 100% 5 walls. 
-- - LeverBody, CatchPusher, Trigger need supports.
+- - Ram, RodCap, RodCapPivot, RodCapKeeper, PrintedCotterPin (x2), Catch, and CatchPusher 100% 5 walls. 
 - - Everything else, 20% Gyroid, 5 walls. 
-- - RodCap, PrintedPin, PinCap, and Ram need brims.
-- - The optional Bottlenose wSling and FrontSling parts need 5 walls 100% infill. The Bottlenose and Bottlenose wSling also need supports.
+- - The Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin (x2) parts require brims.
+- - The optional Bottlenose parts need supports.
 
 - Green: 
 - - StockPanels and StockCores at 10% gyroid, 4 walls. 
 - - PrimeTransferBar (x2), 100% Gyroid, 5 walls.
 - - Everything else, 20% Gyroid, 5 walls. 
-- - Handguard wPicatinny needs supports. The standard Handguard does not need supports.
+- - The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
 
 <img src="GHimages/SLABOptions.png" width="500">
 <img src="GHimages/MuzzleOptions.png" width="500">
