@@ -40,13 +40,13 @@ General blaster overview: https://youtu.be/oZG_x506SXU
 The SLAB is a lever action, Talon mag fed, half dart springer.
 
 As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
-- SillyPistol plunger, catch, and top slide as handguard
-- Lynx turnaround
-- Vikinger custom FLAK stock
-- FLAK lever & trigger
-- Chimera mk7 trigger linkage
-- Medusa magwell-to-lever connection (previously done by the FLAK)
-- Skewer magwell
+- SillyPistol derived plunger, catch, and top slide as handguard (heavily modified)
+- Lynx derived turnaround (heavily modified)
+- Vikinger custom FLAK stock (heavily modified)
+- FLAK derived lever & trigger (heavily modified)
+- Chimera mk7 trigger linkage (inspired)
+- Medusa magwell-to-lever connection (inspired, previously done by FLAK)
+- Skewer derived magwell (heavily modified)
 - Caliburn and Talon Claw priming bars used as reinforcement
 
 The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
@@ -94,7 +94,6 @@ This blaster is designed for PLA parts. Printing in other filaments (like PETG) 
 Infills:
 - Black: 
 - - PlungerRod 100% Gyroid, 5+ walls.
-- - StockButt, 10% Gyroid, 3 walls.
 - - Everything else, 20% Gyroid, 5 walls. 
 - - GripPanels need support.
 
@@ -103,7 +102,7 @@ Infills:
 - - Rails A/B need a brim and MUST be printed on the flat end.
 
 - Orange: 
-- - Ram, RodCap, RodCapPivot, RodCapKeeper, PrintedCotterPin (x2), Catch, and CatchPusher 100% 5 walls. 
+- - Muzzle attachments (Bottlenose, end caps, etc), Ram, RodCap, RodCapPivot, RodCapKeeper, PrintedCotterPin (x2), Catch, and CatchPusher 100% 5 walls. 
 - - Everything else, 20% Gyroid, 5 walls. 
 - - The Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin (x2) parts require brims.
 - - The optional Bottlenose parts need supports.
