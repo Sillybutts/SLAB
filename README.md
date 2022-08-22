@@ -61,8 +61,8 @@ As with many of my other designs, the SLAB is an amalgamation of several design 
 
 The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
 
-<img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
+<img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 
 Here are some good alternate Picatinny sights if you want something other than mine:
 - https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
@@ -162,8 +162,8 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 <img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
 <img src="GHimages/magwell%20moving.gif" width="500">
-<img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
+<img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="500">
 <img src="GHimages/SLAB%204%20v109%202.png" width="500">
 <img src="GHimages/SLAB%204%20v109%203.png" width="500">
