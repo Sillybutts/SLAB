@@ -57,8 +57,11 @@ As with many of my other designs, the SLAB is an amalgamation of several design 
 - Medusa magwell-to-lever connection (inspired, previously done by FLAK)
 - Skewer derived magwell (heavily modified)
 - Caliburn and Talon Claw priming bars used as reinforcement
+<img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
 
 The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
+
+<img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 
 Here are some good alternate Picatinny sights if you want something other than mine:
 - https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
