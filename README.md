@@ -126,7 +126,7 @@ Infills:
 - - Everything else, 20% Gyroid, 5 walls. 
 - - The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
 
-<img src="GHimages/SLABOptions.png" width="500">
+<img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 
 ## Assembly
 
