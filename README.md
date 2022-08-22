@@ -29,9 +29,9 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 </details>
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
-<img src="GHimages/SLAB%203%20v84%201.png" width="500">
-<img src="GHimages/SLAB%203%20v84%203.png" width="500">
-<img src="GHimages/SLABOptions.png" width="500">
+<img src="GHimages/SLAB%204%20v109%201.png" width="400">
+<img src="GHimages/SLAB%204%20v109%208.png" width="400">
+<img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 
 ## Licensing
 
@@ -120,8 +120,6 @@ Infills:
 - - The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
 
 <img src="GHimages/SLABOptions.png" width="500">
-<img src="GHimages/MuzzleOptions.png" width="500">
-<img src="GHimages/StockButts.png" width="500">
 
 ## Assembly
 
@@ -153,6 +151,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
+<img src="GHimages/SLAB%20comparison%20v4%20release.png" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="500">
 <img src="GHimages/SLAB%204%20v109%202.png" width="500">
 <img src="GHimages/SLAB%204%20v109%203.png" width="500">
@@ -164,6 +163,5 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/SLAB%204%20v109%2010.png" width="500">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="500">
 <img src="GHimages/SLAB%204%20v109%2012.png" width="500">
-<img src="GHimages/SLAB%20comparison%20v4%20release.png" width="500">
 
 
