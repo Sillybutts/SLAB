@@ -46,6 +46,8 @@ General blaster overview: https://youtu.be/oZG_x506SXU
 
 The SLAB is a lever action, Talon mag fed, half dart springer.
 
+<img src="GHimages/magwell%20moving.gif" width="500">
+
 As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
 - SillyPistol derived plunger, catch, and top slide as handguard (heavily modified)
 - Lynx derived turnaround (heavily modified)
@@ -154,6 +156,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 <img src="GHimages/SLAB%20comparison%20v4%20release.png" width="500">
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
+<img src="GHimages/magwell%20moving.gif" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="500">
 <img src="GHimages/SLAB%204%20v109%202.png" width="500">
 <img src="GHimages/SLAB%204%20v109%203.png" width="500">
