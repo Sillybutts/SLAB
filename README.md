@@ -4,7 +4,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 # DO NOT PRINT UNTIL V4 KITS RELEASE. DO NOT PRINT!
 
 # IF YOU ARE HAVING ISSUES WITH YOUR BLASTER, CHECK THE TROUBLESHOOTING SECTION OF THIS PAGE. 
-Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. If your issue is not listed, please contact me (contact info at the bottom of this page).
+
 
 <details>
 <summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
@@ -139,7 +139,9 @@ Video: WIP
 
 ## Troubleshooting and common issues
 
-First off, thank you to my beta testers for helping me iron out the kinks in the SLAB before release. That said, there are still some common issues that people have. Thankfully, they are solveable. Here's a few. If your issue isn't listed here, please message me (contact info at the bottom of this page).
+First off, thank you to my beta testers for helping me iron out the kinks in the SLAB before release. That said, there are still some common issues that people have. Thankfully, they are solveable. Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. 
+
+Here's a few common issues. If your issue isn't listed here, please message me (contact info at the bottom of this page).
 
 ## Misc.
 
