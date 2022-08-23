@@ -88,11 +88,12 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 ### Hardware notes:
 
-- Super glue or epoxy is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
+- Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
 - The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. The blaster also fits Longshot springs, but be careful with using super strong springs. The blaster is meant to use 788 and k25. It can fit k26 and k14, but those springs WILL cause durability issues for minimal meaningful performance gains.
 - Use the PrintedCotterPins to keep the two long takedown pins in place (the ones through the turnaround and the lever).
 - There are two very small pins. The slightly longer one is for the mag release, the slightly shorter one is for the trigger.
+- When using the split turnaround, put an 016 o-ring between the two parts, screw them together, then glue on the plunger tube.
 
 ## Printing Info
 
