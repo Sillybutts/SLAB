@@ -51,8 +51,8 @@ The SLAB is a lever action, Talon mag fed, half dart springer.
 As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
 - SillyPistol derived plunger, catch, and top slide as handguard (heavily modified)
 - Lynx derived turnaround (heavily modified)
-- Vikinger custom FLAK stock (heavily modified)
-- FLAK derived lever & trigger (heavily modified)
+- Vikinger custom FLAK stock & lever (heavily modified)
+- FLAK derived trigger & lever (heavily modified)
 - Chimera mk7 trigger linkage (inspired)
 - Medusa magwell-to-lever connection (inspired, previously done by FLAK)
 - Skewer derived magwell (heavily modified)
