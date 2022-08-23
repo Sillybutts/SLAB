@@ -1,7 +1,9 @@
 # SLAB
 The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
-# BETA/UNFINISHED DESIGN, PRINT AT YOUR OWN RISK. SOURCE YOUR OWN HARDWARE FOR NOW, KITS COMING LATER™.
+# DO NOT PRINT UNTIL V4 KITS RELEASE. DO NOT PRINT!
+
+# IF YOU ARE HAVING ISSUES WITH YOUR BLASTER, CHECK THE TROUBLESHOOTING SECTION OF THIS PAGE. Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. If your issue is not listed, please contact me (contact info at the bottom of this page).
 
 <details>
 <summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
@@ -93,6 +95,7 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 - The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. The blaster also fits Longshot springs, but be careful with using super strong springs. The blaster is meant to use 788 and k25. It can fit k26 and k14, but those springs WILL cause durability issues for minimal meaningful performance gains.
 - Use the PrintedCotterPins to keep the two long takedown pins in place (the ones through the turnaround and the lever).
 - There are two very small pins. The slightly longer one is for the mag release, the slightly shorter one is for the trigger.
+- Put the -123 o-ring, the two 016 o-rings, and the nut/thumb screw into the turnaround BEFORE attaching the plunger tube.
 - When using the split turnaround, put an 016 o-ring between the two parts, screw them together, then glue on the plunger tube.
 
 ## Printing Info
@@ -132,6 +135,10 @@ Infills:
 ## Assembly
 
 Video: WIP
+
+## Troubleshooting and common issues
+
+First off, thank you to my beta testers for helping me iron out the kinks in the SLAB before release. That said, there are still some common issues that people have. Thankfully, they are solveable. Here's a few. If your issue isn't listed here, please message me (contact info at the bottom of this page).
 
 ## Misc.
 
