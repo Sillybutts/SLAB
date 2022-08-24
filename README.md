@@ -36,7 +36,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
-<img src="GHimages/SLABturntablegif.gif" width="400">
+<img src="GHimages/SLABturntablegifslower.gif" width="400">
 
 ## Licensing
 
@@ -176,7 +176,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 <img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
 <img src="GHimages/magwell%20moving.gif" width="500">
-<img src="GHimages/SLABturntablegif.gif" width="500">
+<img src="GHimages/SLABturntablegifslower.gif" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="500">
