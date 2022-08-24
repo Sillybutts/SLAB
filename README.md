@@ -64,6 +64,32 @@ As with many of my other designs, the SLAB is an amalgamation of several design 
 - Caliburn and Talon Claw priming bars used as reinforcement
 <img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
 
+
+<details>
+<summary>Thanks to my beta testers who contributed a bunch of features and variant parts to the SLAB! Here's a list of who did what:</summary>
+
+- Baygull made the first version of the Handguard wBackstop
+
+- Baygull contributed the little pointy bits to the top rail that align it with the MuzzleB and TopCover
+
+- Ehdrien contributed his fancy printed cotter pins
+
+- Ehdrien made the first chopped Talon magwell by literally chopping the standard one at an angle in his slicer
+
+Also, thanks to all my beta testers for their feedback while designing the SLAB. Couldn't have done it (this well) without you guys(and gals)!
+
+- SuperStressed
+- Ehdrien
+- BansheeIndian
+- BoomstickMods
+- Junior7
+- SilverFox (Jessie and Ryan)
+- Nevets01
+- Wonderboy
+- CybranWarrior22
+
+</details>
+
 The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
 
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
