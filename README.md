@@ -129,6 +129,8 @@ Keep in mind that SCARs usually reduce performance a bit. If you plan to use a S
 
 Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR. 
 
+Video: https://www.youtube.com/watch?v=pxkyayn5zLk
+
 The scar has three parts to it: The SCAR barrel itself, a locking nut used to tighten it to the barrel, and an 016 o-ring that goes around the barrel. This o-ring is what the SCAR nut tightens against. 
 
 <img src="GHimages/MXL%20Spigot%20SCAR%203%20w.png" width="500">
