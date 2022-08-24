@@ -199,6 +199,10 @@ The GripPanel L/R parts need supports.
 
 The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 
+MAKE SURE THE Z-SEAM IS SET TO BE STRAIGHT IN ONE LINE, OR OUT OF THE WAY, ON MUZZLEB. TOO MANY Z-SEAMS POKING OUT OF THE MUZZLEB WILL RUB AGAINST THE PLUNGER TUBE, MAKING THE PRIME BAD. YOU WOULD NEED TO SAND/FILE DOWN THE BUMPS ON IT TO MAKE IT SMOOTH.
+
+<img src="GHimages/zseamsetting.png" width="500">
+
 This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
 
 ### Infills:
