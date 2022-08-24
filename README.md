@@ -53,18 +53,6 @@ The SLAB is a lever action, Talon mag fed, half dart springer.
 
 <img src="GHimages/magwell%20moving.gif" width="500">
 
-As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
-- SillyPistol derived plunger, catch, and top slide as handguard (heavily modified)
-- Lynx derived turnaround (heavily modified)
-- Vikinger custom FLAK stock & lever (heavily modified)
-- FLAK derived trigger & lever (heavily modified)
-- Chimera mk7 trigger linkage (inspired)
-- Medusa magwell-to-lever connection (inspired, previously done by FLAK)
-- Skewer derived magwell (heavily modified)
-- Caliburn and Talon Claw priming bars used as reinforcement
-<img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
-
-
 <details>
 <summary>Thanks to my beta testers who contributed a bunch of features and variant parts to the SLAB! Here's a list of who did what:</summary>
 
@@ -89,6 +77,18 @@ Also, thanks to all my beta testers for their feedback while designing the SLAB.
 - CybranWarrior22
 
 </details>
+
+As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters.
+- SillyPistol derived plunger, catch, and top slide as handguard (heavily modified)
+- Lynx derived turnaround (heavily modified)
+- Vikinger custom FLAK stock & lever (heavily modified)
+- FLAK derived trigger & lever (heavily modified)
+- Chimera mk7 trigger linkage (inspired)
+- Medusa magwell-to-lever connection (inspired, previously done by FLAK)
+- Skewer derived magwell (heavily modified)
+- Caliburn and Talon Claw priming bars used as reinforcement
+<img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
+
 
 The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
 
