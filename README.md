@@ -125,13 +125,13 @@ Keep in mind that SCARs usually reduce performance a bit. If you plan to use a S
 
 ### MegaXL Spigot SCAR
 
-<img src="GHimages/MXL%20Spigot%20SCAR%204.png" width="500">
+<img src="GHimages/MXL%20Spigot%20SCAR%204%20w.png" width="500">
 
 Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR. 
 
 The scar has three parts to it: The SCAR barrel itself, a locking nut used to tighten it to the barrel, and an 016 o-ring that goes around the barrel. This o-ring is what the SCAR nut tightens against. 
 
-<img src="GHimages/MXL%20Spigot%20SCAR%203.png" width="500">
+<img src="GHimages/MXL%20Spigot%20SCAR%203%20w.png" width="500">
 
 If you lose the 016 o-ring, a rubber band can be used as a replacement to keep the SCAR in place. The rubber band will not provide the air seal to the SCAR, but that isn't necessary for it to function.
 
