@@ -9,7 +9,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <details>
 <summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
 
-- Changelog: 1-1-22: null
+- Changelog: 8-25-22: Blaster release.
   
 </details>
 
