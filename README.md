@@ -13,25 +13,6 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
   
 </details>
 
-<details>
-<summary>v3 BAR BETA VERSION Changelog (click this text, it's a dropdown!)</summary>
-
-- Changelog: 6-17-22: Updated the Turnaround to better support the barrel
-- Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
-- Changelog: 6-20-22: Updated the Rail to be split in half for easier printing (RailA, RailB). Updated the Magwell and Turnaround to add a new part, FeedGuide. This makes the whole assembly sturdier and easier to print.
-- Changelog: 6-21-22: Apparently the Handguard, Handguard wPicatinny, MuzzleA, MuzzleB, and the TC length MuzzleB had misaligned screw holes. No idea where that got borked in the cad process lol. Fixed the holes, and made the Handguards slightly thicker and easier to print.
-- Changelog: 6-22-22: Updated the TopCover's back tab to fit into the reciever notches easier. Updated the side covers to have slightly more pin clearance. 
-- Changelog: 6-30-22: Apparently the wrong Magwell part was uploaded. The new part has a separate feed lip portion. Do not print the magwell with integrated feed lips.
-- Changelog: 7-3-22: Fixed screw head relief spacing in the side cover parts that had become misaligned between the first and second prototype SLAB prints.
-- Changelog: 7-9-22: Added new Bottlenose parts with cutouts for SCAR clearance. Added some iron sights for the picatinny rail, with holes to jam filament into for extra snazziness. Edited the Turnaround to hold the barrel centered better. Added a shim/spacer for the picatinny rail, if you have a gap.
-- Changelog: 7-20-22: Lots of changes! New muzzle with better barrel centering. New turnaround that prints nicer and lets you glue/screw the PT on easier, and put in the thumb screw nut easier. New lever variants. New ram for double o-rings. Priming Bars print nicer now. Pin caps added. Updated the trigger linkage bits to not loosen over time. Better Bottlenose parts with more barrel clearance. Longshot spring compatibility.
-- Changelog: 7-22-22: Updated TriggerBlock to have a looser pivot hole.
-- Changelog: 7-23-22: Tweaked the CatchPusher's rod hole to be slightly shallower, hopefully improving trigger feel.
-- Changelog: 7-24-22: Removed the PinCap part, replaced with PrintedCotterPin from Ehdrien. They work a LOT better!
-
-</details>
-
-<img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="400">
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
@@ -52,6 +33,9 @@ General blaster overview: https://youtu.be/oZG_x506SXU
 The SLAB is a lever action, Talon mag fed, half dart springer.
 
 <img src="GHimages/magwell%20moving.gif" width="500">
+<img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
+<img src="GHimages/SLAB%204%20v109%208.png" width="400">
+<img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 
 <details>
 <summary>Thanks to my beta testers who contributed a bunch of features and variant parts to the SLAB! Here's a list of who did what: (click this text)</summary>
@@ -107,15 +91,42 @@ Here are some good alternate Picatinny sights if you want something other than m
 ## Hardware, Compatability, and Availability
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
-
+<details>
+<summary>If you have a V3 kit instead of a release v4 kit, please click this text for some V3 BETA KIT info. All other info on this page is for the V4 or current release of the SLAB.</summary>
+  
 The v3 bar BETA hardware can be converted to a release v4 hardware kit by swapping the TCv3 and Caliburn v3 bars to TC T4 and Caliburn C4 bars, adding 3x 10-32 short screws (the ones used to hold the foregrip on Talon Claws and Caliburns), and adding some more o-rings.
 
+  v3 BAR BETA VERSION Changelog
+
+- Changelog: 6-17-22: Updated the Turnaround to better support the barrel
+- Changelog: 6-19-22: Updated the Rail and Handguard wPicatinny to have nicer picatinny. Requires supports. Updated bottlenose and bottlenose wSling parts to be thicker walled.
+- Changelog: 6-20-22: Updated the Rail to be split in half for easier printing (RailA, RailB). Updated the Magwell and Turnaround to add a new part, FeedGuide. This makes the whole assembly sturdier and easier to print.
+- Changelog: 6-21-22: Apparently the Handguard, Handguard wPicatinny, MuzzleA, MuzzleB, and the TC length MuzzleB had misaligned screw holes. No idea where that got borked in the cad process lol. Fixed the holes, and made the Handguards slightly thicker and easier to print.
+- Changelog: 6-22-22: Updated the TopCover's back tab to fit into the reciever notches easier. Updated the side covers to have slightly more pin clearance. 
+- Changelog: 6-30-22: Apparently the wrong Magwell part was uploaded. The new part has a separate feed lip portion. Do not print the magwell with integrated feed lips.
+- Changelog: 7-3-22: Fixed screw head relief spacing in the side cover parts that had become misaligned between the first and second prototype SLAB prints.
+- Changelog: 7-9-22: Added new Bottlenose parts with cutouts for SCAR clearance. Added some iron sights for the picatinny rail, with holes to jam filament into for extra snazziness. Edited the Turnaround to hold the barrel centered better. Added a shim/spacer for the picatinny rail, if you have a gap.
+- Changelog: 7-20-22: Lots of changes! New muzzle with better barrel centering. New turnaround that prints nicer and lets you glue/screw the PT on easier, and put in the thumb screw nut easier. New lever variants. New ram for double o-rings. Priming Bars print nicer now. Pin caps added. Updated the trigger linkage bits to not loosen over time. Better Bottlenose parts with more barrel clearance. Longshot spring compatibility.
+- Changelog: 7-22-22: Updated TriggerBlock to have a looser pivot hole.
+- Changelog: 7-23-22: Tweaked the CatchPusher's rod hole to be slightly shallower, hopefully improving trigger feel.
+- Changelog: 7-24-22: Removed the PinCap part, replaced with PrintedCotterPin from Ehdrien. They work a LOT better!
+  
+  
+  
+</details>
+
+
 Hardware is available from these sellers:
-- SilverFoxIndustries: LINK
+- SilverFoxIndustries: WIP
 
 Fully printed/assembled blasters are available from these sellers:
-- PERSON: LINK
-- PERSON: LINK
+- SilverFoxIndustries: WIP
+- SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
+
+
+Upgrade parts are available from these sellers:
+- BansheeIndian: WIP
+- Roboman Automation: WIP
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3HkqtDI1B0x1Cw2i1hpLy2a5YOf-w4Q/
 
