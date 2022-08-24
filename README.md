@@ -60,6 +60,7 @@ The SLAB is a lever action, Talon mag fed, half dart springer.
 - Baygull contributed the little pointy bits to the top rail that align it with the MuzzleB and TopCover
 - Ehdrien contributed his fancy printed cotter pins
 - Ehdrien made the first chopped Talon magwell by literally chopping the standard one at an angle in his slicer
+- The nice handwriting on the SLAB logo is from Jessie (Silverfox), thanks for letting me add that to the blaster :)
 
 Also, thanks to all my beta testers for their feedback while designing the SLAB. Couldn't have done it (this well) without you guys(and gals)!
 
