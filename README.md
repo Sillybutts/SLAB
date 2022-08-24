@@ -37,6 +37,8 @@ The SLAB is a lever action, Talon mag fed, half dart springer.
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 
+
+### Beta Tester Thanks
 <details>
 <summary>Thanks to my beta testers who contributed a bunch of features and variant parts to the SLAB! Here's a list of who did what: (click this text)</summary>
 
@@ -60,6 +62,7 @@ Also, thanks to all my beta testers for their feedback while designing the SLAB.
 
 </details>
 
+### Design Lineage
 <details>
 <summary> As with many of my other designs, the SLAB is an amalgamation of several design ideas from other blasters. Here's a nice list: (click this text)</summary>
 
@@ -75,8 +78,9 @@ Also, thanks to all my beta testers for their feedback while designing the SLAB.
 
 </details>
 
+### Sights
 
-The blaster comes with front and rear iron sights in the White STL folder. The holes in them are sized for 1.75mm filament. They are held in place by two 4-40 screws per sight. 
+The blaster comes with front and rear iron sights in the White STL folder. The holes my sights are sized for 1.75mm filament. The sights are held in place by two 4-40 screws per sight. 
 
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
@@ -115,7 +119,7 @@ The v3 bar BETA hardware can be converted to a release v4 hardware kit by swappi
   
 </details>
 
-
+### Sellers
 Hardware is available from these sellers:
 - SilverFoxIndustries: WIP
 
@@ -150,7 +154,7 @@ The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts 
 
 This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
 
-Infills:
+### Infills:
 - Black: 
 - - PlungerRod 100% Gyroid, 5+ walls.
 - - Everything else, 20% Gyroid, 5 walls. 
