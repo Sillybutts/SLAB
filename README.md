@@ -287,6 +287,8 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/SLABturntablegifslower.gif" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
+<img src="GHimages/MXL%20Spigot%20SCAR%204%20w.png" width="500">
+<img src="GHimages/MXL%20Spigot%20SCAR%203%20w.png" width="500">
 <img src="GHimages/SLAB%204%20v109%201.png" width="500">
 <img src="GHimages/SLAB%204%20v109%202.png" width="500">
 <img src="GHimages/SLAB%204%20v109%203.png" width="500">
