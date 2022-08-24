@@ -126,6 +126,12 @@ Keep in mind that SCARs usually reduce performance a bit. If you plan to use a S
 ### MegaXL Spigot SCAR
 Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR. 
 
+The scar has three parts to it: The SCAR barrel itself, a locking nut used to tighten it to the barrel, and an 016 o-ring that goes around the barrel. This o-ring is what the SCAR nut tightens against. 
+
+If you lose the 016 o-ring, a rubber band can be used as a replacement to keep the SCAR in place. The rubber band will not provide the air seal to the SCAR, but that isn't necessary for it to function.
+
+There is also a part called BarrelCap, which is basically just something to put over your muzzle so you don't core-sample someone with your sharp metal barrel. It connects to the barrel the same way as the normal SCAR. 
+
 ## Hardware, Compatability, and Availability
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
