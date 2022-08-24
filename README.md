@@ -199,7 +199,7 @@ The GripPanel L/R parts need supports.
 
 The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 
-MAKE SURE THE Z-SEAM IS SET TO BE STRAIGHT IN ONE LINE, OR OUT OF THE WAY, ON MUZZLEB. TOO MANY Z-SEAMS POKING OUT OF THE MUZZLEB WILL RUB AGAINST THE PLUNGER TUBE, MAKING THE PRIME BAD. YOU WOULD NEED TO SAND/FILE DOWN THE BUMPS ON IT TO MAKE IT SMOOTH.
+**Make sure the Z-Seam is set to have all the seams in one line for easy cleanup, or hide the seam some place where it doesn't matter or rub against parts. On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam(s).**
 
 <img src="GHimages/zseamsetting.png" width="500">
 
@@ -256,6 +256,10 @@ The following are common issues with the SLAB. If your issue isn't listed here, 
 - - Bad seal between the plunger and turnaround. This can be solved with adding more glue to the connection between the plunger tube and the Turnaround.
 - - Bad ram seal. This can be solved by printing the T or Tighter ram variant, or switching to the Lynx hardware ram (which is adjustable to much tighter levels). LUBE YOUR RAM O-RINGS!!!
 - Catch won't catch or release: tighten/loosen catch elastic, thread in/out trigger linkage rod to push down the catch less/more. If your rod is threaded out too far, your catch won't catch the plunger. There is also a spot on the top of the trigger to put a 4-40 screw to fine tune trigger pull distance if needed.
+- Gritty/sluggish prime: Can be caused by several things.
+- - On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam.
+- - Your Turnaround might be rubbing against the aluminum bars because the prints are too tight. If this is happening, sand down the prints where they are excessively rubbing.
+- - You might have not lubed things correctly. The plunger tube needs lube, and the o-ring(s) on the ram need lube. **DO NOT LUBE THE BARREL O-RINGS.**
 
 ## Misc.
 
