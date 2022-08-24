@@ -199,7 +199,7 @@ The GripPanel L/R parts need supports.
 
 The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 
-**Make sure the Z-Seam is set to have all the seams in one line for easy cleanup, or hide the seam some place where it doesn't matter or rub against parts. On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam(s).**
+**Make sure the Z-Seam is set to have all the seams in one line for easy cleanup, or hide the seam some place where it doesn't matter or rub against parts. On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam(s). This setting is also very important on the SCAR.**
 
 <img src="GHimages/zseamsetting.png" width="500">
 
@@ -232,8 +232,11 @@ Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and
 
 Print all of the SCAR at 5 walls 20% infill. No supports are necessary, but a brim might be needed to print smoothly.
 
+Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might not launch MegaXL as nicely, and it looks bad with misaligned Z-Seams.
 
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
+
+<img src="GHimages/zseamsetting.png" width="500">
 
 ## Assembly
 
