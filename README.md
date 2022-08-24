@@ -75,6 +75,8 @@ Also, thanks to all my beta testers for their feedback while designing the SLAB.
 - Skewer derived magwell (heavily modified)
 - Caliburn and Talon Claw priming bars used as reinforcement
 <img src="GHimages/SLAB%204%20design%20and%20mechanical%20lineage%20diagram%20-%20Copy.png" width="500">
+  
+  <img src="GHimages/SLAB%20comparison%20v4%20release.png" width="500">
 
 </details>
 
@@ -91,6 +93,38 @@ Here are some good alternate Picatinny sights if you want something other than m
 - https://www.thingiverse.com/thing:2829229
 - https://www.thingiverse.com/thing:5103083
 
+### Performance:
+As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
+
+Keep in mind that SCARs usually reduce performance a bit. If you plan to use a SCAR, make sure your barrel is long enough to come out the end of the muzzle for attaching the SCAR.
+
+**788, 4.5 INCH LENGTH**: 
+- 10in/25cm barrel: UNKNOWN FPS
+- 12in/30cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: UNKNOWN FPS
+
+**788, Talon Claw LENGTH**: 
+- 10in/25cm barrel: UNKNOWN FPS
+- 12in/30cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: UNKNOWN FPS
+
+**K25, 4.5 INCH LENGTH**: 
+- 10in/25cm barrel: UNKNOWN FPS
+- 12in/30cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: UNKNOWN FPS
+
+**K25, Talon Claw LENGTH**: 
+- 10in/25cm barrel: UNKNOWN FPS
+- 12in/30cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: UNKNOWN FPS
+
+**SF25, Talon Claw LENGTH**: 
+- 10in/25cm barrel: UNKNOWN FPS
+- 12in/30cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: UNKNOWN FPS
+
+### MegaXL Spigot SCAR
+Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR. 
 
 ## Hardware, Compatability, and Availability
 
@@ -127,14 +161,14 @@ Fully printed/assembled blasters are available from these sellers:
 - SilverFoxIndustries: WIP
 - SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
 
-
 Upgrade parts are available from these sellers:
 - BansheeIndian: WIP
 - Roboman Automation: WIP
 
-Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3HkqtDI1B0x1Cw2i1hpLy2a5YOf-w4Q/
 
 ### Hardware notes:
+
+Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3HkqtDI1B0x1Cw2i1hpLy2a5YOf-w4Q/
 
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
@@ -176,6 +210,12 @@ This blaster is designed for PLA parts. Printing in other filaments (like PETG) 
 - - Everything else, 20% Gyroid, 5 walls. 
 - - The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
 
+### MegaXL Spigot SCAR Print Settings
+Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR. 
+
+Print all of the SCAR at 5 walls 20% infill. No supports are necessary, but a brim might be needed to print smoothly.
+
+
 <img src="GHimages/SLAB%204%20v110%20Part%20Variant%20Layout.png" width="500">
 
 ## Assembly
@@ -184,9 +224,21 @@ Video: WIP
 
 ## Troubleshooting and common issues
 
-First off, thank you to my beta testers for helping me iron out the kinks in the SLAB before release. That said, there are still some common issues that people have. Thankfully, they are solveable. Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. 
+First off, thank you to my beta testers for helping me iron out the kinks in the SLAB before release. That said, there are still some common issues that people have. 
 
-Here's a few common issues. If your issue isn't listed here, please message me (contact info at the bottom of this page).
+Thankfully, they are solveable. 
+
+Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. 
+
+The following are common issues with the SLAB. If your issue isn't listed here, please message me (contact info at the bottom of this page).
+- Flubs/Squibs: Flubs/Squibs are seemingly caused by several random things on the SLAB. Common causes include: 
+- - Barrel too long for given spring weight. Try using a shorter/longer barrel. As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
+- - Darts getting bent as they are chambered. This can be solved by changing which ram you are using. The flat face ram chambers smoother, but doesn't push the dart into the barrel as far as the pointy ram.
+- - Roughly cut barrel ends grabbing onto darts as they go through the barrel. Solved by sanding or chamfering the ends of your barrel to be smoother.
+- - Missing or broken o-rings around the barrel in the turnaround. Replace these o-rings if they break. Barrel o-rings can be broken by sharp edges on the ends of your barrel. As you put in the rough barrel, it cuts up the o-rings.
+- - Bad seal between the plunger and turnaround. This can be solved with adding more glue to the connection between the plunger tube and the Turnaround.
+- - Bad ram seal. This can be solved by printing the T or Tighter ram variant, or switching to the Lynx hardware ram (which is adjustable to much tighter levels). LUBE YOUR RAM O-RINGS!!!
+- Catch won't catch or release: tighten/loosen catch elastic, thread in/out trigger linkage rod to push down the catch less/more. If your rod is threaded out too far, your catch won't catch the plunger. There is also a spot on the top of the trigger to put a 4-40 screw to fine tune trigger pull distance if needed.
 
 ## Misc.
 
