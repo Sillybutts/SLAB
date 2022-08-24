@@ -139,6 +139,11 @@ If you lose the 016 o-ring, a rubber band can be used as a replacement to keep t
 
 There is also a part called BarrelCap, which is basically just something to put over your muzzle so you don't core-sample someone with your sharp metal barrel. It connects to the barrel the same way as the normal SCAR. 
 
+## Community Upgrades / Variant Parts
+This section is reserved for when people make their own parts for the SLAB. 
+
+If you made something neat for the SLAB, let me know about it! My contact info is at the bottom of this page.
+
 ## Hardware, Compatability, and Availability
 
 <img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
