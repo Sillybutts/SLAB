@@ -171,10 +171,10 @@ The v3 bar BETA hardware can be converted to a release v4 hardware kit by swappi
 
 ### Sellers
 Hardware is available from these sellers:
-- SilverFoxIndustries: WIP
+- SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- SilverFoxIndustries: WIP
+- SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-sillys-lever-action-blaster
 - SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
 
 Upgrade parts are available from these sellers:
