@@ -200,15 +200,15 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
 
-The GripPanel L/R parts need supports.
-
-The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
+This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
 
 **Make sure the Z-Seam is set to have all the seams in one line for easy cleanup, or hide the seam some place where it doesn't matter or rub against parts. On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam(s). This setting is also very important on the SCAR.**
 
 <img src="GHimages/zseamsetting.png" width="500">
 
-This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
+The GripPanel L/R parts need supports. CatchPusher *might* need supports, but it really depends on your printer's overhang performance. 
+
+The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 
 ### Infills:
 - Black: 
