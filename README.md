@@ -17,6 +17,8 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 <img src="GHimages/SLABturntablegifslower.gif" width="400">
 
+Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
+
 ## Licensing
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). iamsillybutts@gmail.com email too.**
@@ -27,6 +29,8 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 ## Description
 
 General blaster overview: https://youtu.be/Z2xsDboqWGA
+
+Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
 The SLAB is a lever action, Talon mag fed, half dart springer.
 
