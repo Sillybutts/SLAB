@@ -270,6 +270,7 @@ The following are common issues with the SLAB. If your issue isn't listed here, 
 - - On the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam.
 - - Your Turnaround might be rubbing against the aluminum bars because the prints are too tight. If this is happening, sand down the prints where they are excessively rubbing.
 - - You might have not lubed things correctly. The plunger tube needs lube, and the o-ring(s) on the ram need lube. **DO NOT LUBE THE BARREL O-RINGS.**
+- Wobbly top picatinny rail: If it is wobbly front to back, print the RailSpacer part and put it between the two top rail segments. If it is wobbly up and down, put some tape on the aluminum bar inside the rails to act as a shim.
 
 ## Misc.
 
