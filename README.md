@@ -193,10 +193,7 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, but not needed. 
 - The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. The blaster also fits Longshot springs, but be careful with using super strong springs. The blaster is meant to use 788 and k25. It can fit k26 and k14, but those springs WILL cause durability issues for minimal meaningful performance gains.
-- Use the PrintedCotterPins to keep the two long takedown pins in place (the ones through the turnaround and the lever).
-- There are two very small pins. The slightly longer one is for the mag release, the slightly shorter one is for the trigger.
-- Put the -123 o-ring, the two 016 o-rings, and the nut/thumb screw into the turnaround BEFORE attaching the plunger tube.
-- When using the split turnaround, put an 016 o-ring between the two parts, screw them together, then glue on the plunger tube.
+
 
 ## Printing Info
 
@@ -248,6 +245,15 @@ Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might 
 ## Assembly
 
 Video: WIP
+
+- Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
+- Put the -123 o-ring, the two 016 o-rings, and the nut/thumb screw into the turnaround BEFORE attaching the plunger tube.
+- When using the split turnaround, put an 016 o-ring between the two parts, screw them together, then glue on the plunger tube.
+- Using an elastic hair tie instead of elastic cord for the catch is recommended for aesthetics, and it makes assembly easier. The HW kits do not include these. 
+- The blaster is designed for 4 inches of k25 with a 12 inch barrel. The barrel can be longer or shorter, and you can fit springs anywhere from 4 inches to 6 inches in the blaster. The blaster also fits Longshot springs, but be careful with using super strong springs. The blaster is meant to use 788 and k25. It can fit k26 and k14, but those springs WILL cause durability issues for minimal meaningful performance gains.
+- Use the PrintedCotterPins to keep the two long takedown pins in place (the ones through the turnaround and the lever).
+- There are two very small pins. The slightly longer one is for the mag release, the slightly shorter one is for the trigger.
+
 
 ## Troubleshooting and common issues
 
