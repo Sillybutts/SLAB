@@ -8,6 +8,12 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
 
 - Changelog: 8-25-22: Blaster release.
+- Changelog: 9-5-22: Updated parts. 
+  - MuzzleB now has a hole for poking the catch pivot pin out from the other side. 
+  - There is now a thicker MuzzleB in the alternate files folder, made to be stronger. The thicker MuzzleB does not fit Longshot springs. 
+  - Added a split version of all the levers to the alternate file folder. These are to fit in very small printers, 150x150x150mm minimum build size. Without the split lever, minimum build size for the SLAB is 170x170x150mm. 
+  - Fixed some magwells missing clearance cuts for the feedguide. If you have an old magwell, just shave the edges near the feedguide to make space for it. 
+  - Updated the SidePanels to remove some old beta testing leftovers. On each side, I removed a slot for longer pins on the lever, and I removed an extra screw hole for the two side bars.
   
 </details>
 
@@ -29,6 +35,8 @@ Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 ## Description
 
 **Download these to get all the STLs for printing!** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%201%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%202%20EXPERIMENTAL%20AND%20OPTIONAL.zip
+
+**The minimum build volume for the SLAB is 150x150x150mm with alternate Lever parts. 170x170x150mm with all the standard parts. Remember to rotate parts to make them fit on your bed optimally.**
 
 General blaster overview: https://youtu.be/Z2xsDboqWGA
 
@@ -200,6 +208,8 @@ Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1rwOaMUxTBOt-3Hkq
 ## Printing Info
 
 All STLs were exported in print orientation. F3D & STEP source files are also provided.
+
+**The minimum build volume for the SLAB is 150x150x150mm with alternate Lever parts. 170x170x150mm with all the standard parts. Remember to rotate parts to make them fit on your bed optimally.**
 
 This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
 
