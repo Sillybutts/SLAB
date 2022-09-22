@@ -14,6 +14,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
   - Added a split version of all the levers to the alternate file folder. These are to fit in very small printers, 150x150x150mm minimum build size. Without the split lever, minimum build size for the SLAB is 170x170x150mm. 
   - Fixed some magwells missing clearance cuts for the feedguide. If you have an old magwell, just shave the edges near the feedguide to make space for it. 
   - Updated the SidePanels to remove some old beta testing leftovers. On each side, I removed a slot for longer pins on the lever, and I removed an extra screw hole for the two side bars.
+ - Changelog: 9-21-22: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U
   
 </details>
 
@@ -37,6 +38,8 @@ Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 **Download these to get all the STLs for printing!** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%201%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%202%20EXPERIMENTAL%20AND%20OPTIONAL.zip
 
 **The minimum build volume for the SLAB is 150x150x150mm with alternate Lever parts. 170x170x150mm with all the standard parts. Remember to rotate parts to make them fit on your bed optimally.**
+
+SLAB ASSEMBLY VIDEO: https://www.youtube.com/watch?v=RuWvdPNgs6U
 
 General blaster overview: https://youtu.be/Z2xsDboqWGA
 
@@ -111,7 +114,7 @@ As testing is done, I will update this part of the page with common spring/barre
 Keep in mind that SCARs usually reduce performance a bit. If you plan to use a SCAR, make sure your barrel is long enough to come out the end of the muzzle for attaching the SCAR.
 
 **788, 4.5 INCH LENGTH**: 
-- 10in/25cm barrel: UNKNOWN FPS
+- 10in/25cm barrel: 130 FPS
 - 12in/30cm barrel: UNKNOWN FPS
 - 14in/35cm barrel: UNKNOWN FPS
 
@@ -128,12 +131,12 @@ Keep in mind that SCARs usually reduce performance a bit. If you plan to use a S
 **K25, Talon Claw LENGTH**: 
 - 10in/25cm barrel: UNKNOWN FPS
 - 12in/30cm barrel: UNKNOWN FPS
-- 14in/35cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: 210 FPS
 
 **SF25, Talon Claw LENGTH**: 
 - 10in/25cm barrel: UNKNOWN FPS
 - 12in/30cm barrel: UNKNOWN FPS
-- 14in/35cm barrel: UNKNOWN FPS
+- 14in/35cm barrel: 220 FPS
 
 ### MegaXL Spigot SCAR
 
@@ -186,13 +189,16 @@ The v3 bar BETA hardware can be converted to a release v4 hardware kit by swappi
 ### Sellers
 Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-hardware-kit
+- OutOfDarts: https://outofdarts.com/collections/new-products/products/slab-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-sillys-lever-action-blaster
 - SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
+- OutOfDarts: WIP
+- BansheeIndian: https://www.etsy.com/shop/BansheesBlasters
 
 Upgrade parts are available from these sellers:
-- BansheeIndian: WIP
+- BansheeIndian: https://www.etsy.com/shop/BansheesBlasters
 - Roboman Automation: WIP
 
 
@@ -256,7 +262,7 @@ Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might 
 
 ## Assembly
 
-Video: WIP
+Video: https://www.youtube.com/watch?v=RuWvdPNgs6U
 
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Put the -123 o-ring, the two 016 o-rings, and the nut/thumb screw into the turnaround BEFORE attaching the plunger tube.
