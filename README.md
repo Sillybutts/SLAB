@@ -15,6 +15,13 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
   - Fixed some magwells missing clearance cuts for the feedguide. If you have an old magwell, just shave the edges near the feedguide to make space for it. 
   - Updated the SidePanels to remove some old beta testing leftovers. On each side, I removed a slot for longer pins on the lever, and I removed an extra screw hole for the two side bars.
  - Changelog: 9-21-22: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U
+ - Changelog: 9-22-22: Updated and added parts.
+   - Added a new massive lever as a joke. It's really big, but it technically works.
+   - Added new top rail segments without picatinny rail on them for a smooth look.
+   - Added a new MuzzleA without an elastic channel to go with the...
+   - Updated hanguards and catches to have a spot for a Lynx or Longshot catch spring, if you don't like the elastic catch. These parts are compatible with both the spring and the elastic at the same time, just put in whichever you want. <img src="GHimages/SLAB%204%20v172%203.png" width="500">
+   - Updated CatchTighter to be -.5mm on each side, making it fit nicely right off the print bed. 
+   - Updated both Turnarounds and all the magwells to move the screws that attach the two parts together. The new spot should be a lot stronger, and easier to reach while assembling. You can now reach the screws even if you already glued on your plunger tube. <img src="GHimages/SLAB%204%20v172%201.png" width="500"> <img src="GHimages/SLAB%204%20v172%202.png" width="500">
   
 </details>
 
