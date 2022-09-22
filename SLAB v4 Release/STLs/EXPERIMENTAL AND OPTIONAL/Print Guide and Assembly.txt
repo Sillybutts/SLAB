@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PRINT GUIDE:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Printing Info
+All STLs were exported in print orientation. F3D & STEP source files are also provided.
+
+This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
+
+Make sure the Z-Seam is set to have all the seams in one line for easy cleanup, or hide the seam some place where it doesn't matter or rub against parts. O
+n the MuzzleB, excessive Z-Seam can rub against the plunger tube during the prime, making the prime feel awful. If your blaster is doing this, just sand down the Z-Seam(s). This setting is also very important on the SCAR.
+
+
+
+The GripPanel L/R parts need supports. CatchPusher might need supports, but it really depends on your printer's overhang performance.
+
+The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Infills:
+
+Black:
+PlungerRod 100% Gyroid, 5+ walls.
+Everything else, 20% Gyroid, 5 walls.
+GripPanels need support.
+
+White:
+All at 20% Gyroid, 5 walls.
+Rails A/B need a brim and MUST be printed on the flat end.
+
+Orange:
+Muzzle attachments (Bottlenose, end caps, etc), Ram, RodCap, RodCapPivot, RodCapKeeper, PrintedCotterPin (x2), Catch, and CatchPusher 100% 5 walls.
+Everything else, 20% Gyroid, 5 walls.
+The Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin (x2) parts require brims.
+The optional Bottlenose parts need supports.
+
+Green:
+StockPanels and StockCores at 10% gyroid, 4 walls.
+PrimeTransferBar (x2), 100% Gyroid, 5 walls.
+Everything else, 20% Gyroid, 5 walls.
+The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. 
+This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MegaXL Spigot SCAR Print Settings
+
+Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR.
+
+Print all of the SCAR at 5 walls 20% infill. No supports are necessary, but a brim might be needed to print smoothly.
+
+Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might not launch MegaXL as nicely, and it looks bad with misaligned Z-Seams.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSEMBLY: https://www.youtube.com/watch?v=RuWvdPNgs6U
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOLLOW THE ASSEMBLY GUIDE LINKED HERE: https://www.youtube.com/watch?v=RuWvdPNgs6U
