@@ -30,7 +30,6 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 <img src="GHimages/SLABturntablegifslower.gif" width="400">
-<img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
 
 Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
