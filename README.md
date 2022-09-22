@@ -14,7 +14,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
   - Added a split version of all the levers to the alternate file folder. These are to fit in very small printers, 150x150x150mm minimum build size. Without the split lever, minimum build size for the SLAB is 170x170x150mm. 
   - Fixed some magwells missing clearance cuts for the feedguide. If you have an old magwell, just shave the edges near the feedguide to make space for it. 
   - Updated the SidePanels to remove some old beta testing leftovers. On each side, I removed a slot for longer pins on the lever, and I removed an extra screw hole for the two side bars.
- - Changelog: 9-21-22: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U
+ - Changelog: 9-21-22: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U <img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
  - Changelog: 9-22-22: Updated and added parts.
    - Added a new massive lever as a joke. It's really big, but it technically works.
    - Added new top rail segments without picatinny rail on them for a smooth look.
@@ -30,6 +30,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 <img src="GHimages/SLABturntablegifslower.gif" width="400">
+<img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
 
 Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
@@ -269,6 +270,8 @@ Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might 
 
 ## Assembly
 
+<img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
+
 Video: https://www.youtube.com/watch?v=RuWvdPNgs6U
 
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
@@ -352,5 +355,8 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/SLAB%204%20v109%2010.png" width="500">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="500">
 <img src="GHimages/SLAB%204%20v109%2012.png" width="500">
-
+<img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
+<img src="GHimages/SLAB%204%20v172%201.png" width="500">
+<img src="GHimages/SLAB%204%20v172%202.png" width="500">
+<img src="GHimages/SLAB%204%20v172%203.png" width="500">
 
