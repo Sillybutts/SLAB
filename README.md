@@ -104,7 +104,7 @@ Also, thanks to all my beta testers for their feedback while designing the SLAB.
 
 ### Sights
 
-The blaster comes with front and rear iron sights in the White STL folder. The holes my sights are sized for 1.75mm filament. The sights are held in place by two 4-40 screws per sight. 
+The blaster comes with front and rear iron sights in the White STL folder. The holes in my sights are sized for 1.75mm filament. The sights are held in place by two 4-40 screws per sight. 
 
 <img src="GHimages/SLAB%204%20v111%20sights2.png" width="500">
 <img src="GHimages/SLAB%204%20v111%20sights1.png" width="500">
