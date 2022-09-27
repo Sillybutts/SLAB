@@ -120,7 +120,9 @@ Here are some good alternate Picatinny sights if you want something other than m
 ### Performance:
 As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
 
-Keep in mind that SCARs usually reduce performance a bit. If you plan to use a SCAR, make sure your barrel is long enough to come out the end of the muzzle for attaching the SCAR.
+Keep in mind that SCARs usually reduce performance a bit. If you plan to use a SCAR, make sure your barrel is long enough to come out the end of the muzzle for attaching the SCAR. Also keep in mind that a SCAR acts as a barrel lengthener to some extent. 
+
+I usually recommend 12 inch barrel + MegaXL Spigot SCAR with SF25-TC or 5.5" k25 for maximum reasonable performance on the SLAB. It should hit ~220 fps.
 
 **788, 4.5 INCH LENGTH**: 
 - 10in/25cm barrel: 130 FPS
@@ -146,6 +148,16 @@ Keep in mind that SCARs usually reduce performance a bit. If you plan to use a S
 - 10in/25cm barrel: UNKNOWN FPS
 - 12in/30cm barrel: UNKNOWN FPS
 - 14in/35cm barrel: 220 FPS
+
+### Barrel Length
+
+To use the MegaXL Spigot SCAR, 40mm of barrel is needed past the muzzle (when in the firing position) to attach. With the short nut, 35 is needed.
+
+The standard 10 inch SLAB barrel sticks out of the muzzle 28mm, so it can not use the Spigot SCAR.
+
+12 inch barrels stick out 80mm.
+
+14 inch barrels stick out 130mm.
 
 ### MegaXL Spigot SCAR
 
