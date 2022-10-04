@@ -215,7 +215,7 @@ Hardware is available from these sellers:
 Fully printed/assembled blasters are available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-sillys-lever-action-blaster
 - SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
-- OutOfDarts: WIP
+- OutOfDarts: https://outofdarts.com/collections/new-products/products/slab-blaster-kit
 - BansheeIndian: https://www.etsy.com/shop/BansheesBlasters
 
 Upgrade parts are available from these sellers:
