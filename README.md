@@ -24,7 +24,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
    - Updated both Turnarounds and all the magwells to move the screws that attach the two parts together. The new spot should be a lot stronger, and easier to reach while assembling. You can now reach the screws even if you already glued on your plunger tube. <img src="GHimages/SLAB%204%20v172%201.png" width="300"> <img src="GHimages/SLAB%204%20v172%202.png" width="300">
  - Changelog: 9-23-22: Updated parts.
    - Updated the magwells and turnarounds (again) to make the attachment between the two stronger(er). More specifically, the dovetails are now slightly tighter, and they are also longer.
-    - Changelog: 11-27-22: Updated print guide to say that the 'PlungerHead' part should be at 100% infill.
+ - Changelog: 11-27-22: Updated print guide to say that the 'PlungerHead' part should be at 100% infill.
    
 </details>
 
