@@ -15,27 +15,8 @@ The GripPanel L/R parts need supports. CatchPusher might need supports, but it r
 
 The RailA/B, Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin parts require brims.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Infills:
+Infills: CHECK THE GITHUB PAGE FOR UPDATED INFILLS https://github.com/Sillybutts/SLAB#infills
 
-Black:
-PlungerRod 100% Gyroid, 5+ walls.
-Everything else, 20% Gyroid, 5 walls.
-GripPanels need support.
-
-White:
-All at 20% Gyroid, 5 walls.
-Rails A/B need a brim and MUST be printed on the flat end.
-
-Orange:
-Muzzle attachments (Bottlenose, end caps, etc), Ram, RodCap, RodCapPivot, RodCapKeeper, PrintedCotterPin (x2), Catch, and CatchPusher 100% 5 walls.
-Everything else, 20% Gyroid, 5 walls.
-The Ram, RodCap, RodCapPivot, RodCapKeeper, and PrintedCotterPin (x2) parts require brims.
-The optional Bottlenose parts need supports.
-
-Green:
-StockPanels and StockCores at 10% gyroid, 4 walls.
-PrimeTransferBar (x2), 100% Gyroid, 5 walls.
-Everything else, 20% Gyroid, 5 walls.
 The SideCovers L/R with text should be printed with THE TEXT NOT TOUCHING THE BUILD PLATE, using supports. The ones WITHOUT TEXT can be printed with the FLAT SIDE ON THE BUILD PLATE. 
 This is done to keep the text nice and crisp. Maybe do a filament change on the layer before the letters to make them really pop!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
