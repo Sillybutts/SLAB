@@ -45,7 +45,7 @@ Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
 ## Description
 
-**Download these to get all the STLs for printing!** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%201%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs%202%20EXPERIMENTAL%20AND%20OPTIONAL.zip
+**FOR ALL THE FILES YOU NEED TO PRINT, DOWNLOAD THE "STLs1 BASE FILES.zip" AND "STLs2 EXPERIMENTAL AND OPTIONAL.zip" FILES! THEY ARE HERE:** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs1%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs2%20EXPERIMENTAL%20AND%20OPTIONAL.zip
 
 **The minimum build volume for the SLAB is 150x150x150mm with alternate Lever parts. 170x170x150mm with all the standard parts. Remember to rotate parts to make them fit on your bed optimally.**
 
