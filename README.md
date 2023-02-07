@@ -199,6 +199,7 @@ If you made something neat for the SLAB, let me know about it! Email: IamSillybu
 - Marksman Kit (longer top rail, cheek riser stock, new muzzle attachment): https://www.printables.com/model/312661-slab-marksman-package
 - Mares Leg Kit (Short chopped stock, swoopy giant lever): https://www.printables.com/model/321813-slab-mares-leg-kit
 - Flat Face "modern" Trigger: https://www.printables.com/model/297608-slab-flat-trigger
+- TPU Priming Lever Sleeve: https://www.printables.com/model/392377-slab-tpu-grip-sleeve
 - SLAB Skeletonized Stock: https://www.printables.com/model/386480-slab-skeleton-stock
 - SLAB X Slingfire Muzzle: https://www.thingiverse.com/thing:5754622
 - Flat SLAB Buttplate: https://www.thingiverse.com/thing:5752277
