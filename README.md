@@ -183,12 +183,12 @@ These parts may not be updated to the current SLAB version. If you have issues, 
 
 If you made something neat for the SLAB, let me know about it! Email: IamSillybutts@gmail.com
 
-- https://www.printables.com/model/323885-slab-magwell-with-compression-spring
-- https://www.printables.com/model/308896-slab-shroud
-- https://www.printables.com/model/312661-slab-marksman-package
-- https://www.printables.com/model/321813-slab-mares-leg-kit
-- https://www.printables.com/model/297608-slab-flat-trigger
-- https://www.printables.com/model/386480-slab-skeleton-stock
+- Chopped Magwell with a spring instead of elastic: https://www.printables.com/model/323885-slab-magwell-with-compression-spring
+- Barrel shroud/cover: https://www.printables.com/model/308896-slab-shroud
+- Marksman Kit (longer top rail, cheek riser stock, new muzzle attachment): https://www.printables.com/model/312661-slab-marksman-package
+- Mares Leg Kit (Short chopped stock, swoopy giant lever): https://www.printables.com/model/321813-slab-mares-leg-kit
+- Flat Face "modern" Trigger: https://www.printables.com/model/297608-slab-flat-trigger
+- SLAB Skeletonized Stock: https://www.printables.com/model/386480-slab-skeleton-stock
 - SLAB X Slingfire Muzzle: https://www.thingiverse.com/thing:5754622
 - Flat SLAB Buttplate: https://www.thingiverse.com/thing:5752277
 - SLAB N-Strike Barrel Lug: https://www.printables.com/model/316254-slab-n-strike-barrel-lug
