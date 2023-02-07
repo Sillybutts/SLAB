@@ -179,7 +179,24 @@ There is also a part called BarrelCap, which is basically just something to put 
 ## Community Upgrades / Variant Parts
 This section is reserved for when people make their own parts for the SLAB. 
 
-If you made something neat for the SLAB, let me know about it! My contact info is at the bottom of this page.
+These parts may not be updated to the current SLAB version. If you have issues, message the creator of the part.
+
+If you made something neat for the SLAB, let me know about it! Email: IamSillybutts@gmail.com
+
+- https://www.printables.com/model/323885-slab-magwell-with-compression-spring
+- https://www.printables.com/model/308896-slab-shroud
+- https://www.printables.com/model/312661-slab-marksman-package
+- https://www.printables.com/model/321813-slab-mares-leg-kit
+- https://www.printables.com/model/297608-slab-flat-trigger
+- https://www.printables.com/model/386480-slab-skeleton-stock
+- SLAB X Slingfire Muzzle: https://www.thingiverse.com/thing:5754622
+- Flat SLAB Buttplate: https://www.thingiverse.com/thing:5752277
+- SLAB N-Strike Barrel Lug: https://www.printables.com/model/316254-slab-n-strike-barrel-lug
+- SLAB N-Strike Stock Attachment Point: https://www.printables.com/model/338615-n-strike-stock-attachment-for-slab
+- Tenderizer Muzzle Plate: https://www.printables.com/model/338618-tenderizer-front-plate-for-slab
+- Paracord SLAB Handguard: https://www.printables.com/model/338606-paracord-slab-grip
+- SLAB Windowed Magwell: https://www.printables.com/model/338855-windowed-magwells-slab
+- Double Plunger Tube Abomination: https://www.thingiverse.com/thing:5663902 https://www.reddit.com/r/Nerf/comments/z6z8ic/double_plunger_slab_files/
 
 ## Hardware, Compatability, and Availability
 
@@ -222,6 +239,7 @@ Fully printed/assembled blasters are available from these sellers:
 Upgrade parts are available from these sellers:
 - BansheeIndian: https://www.etsy.com/shop/BansheesBlasters
 - Roboman Automation: WIP
+- PinkDragonTuning: https://www.etsy.com/listing/1317966754/slab-tpu-buttplate
 
 
 ### Hardware notes:
