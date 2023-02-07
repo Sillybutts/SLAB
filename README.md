@@ -62,6 +62,17 @@ The SLAB is a lever action, Talon mag fed, half dart springer.
 <img src="GHimages/SLAB%204%20v109%208.png" width="400">
 <img src="GHimages/SLAB%204%20v109%2011.png" width="400">
 
+## Reviews
+
+Videos:
+- OutOfDarts: https://www.youtube.com/watch?v=-3QmJG-iSTI
+- Coop772: https://www.youtube.com/watch?v=0gnt4nkgSPQ
+- Lorddraconical: https://www.youtube.com/watch?v=IG3rWt_11c0
+- American Foam: https://www.youtube.com/watch?v=FAZ3mT-elwk
+- Captain Xavier: https://www.youtube.com/watch?v=ifkdSixZSd4
+- WalcomS7: https://www.youtube.com/watch?v=ACKjuRBVfR4
+- Boomstick Mods: https://www.youtube.com/watch?v=W_mRjcNI2pQ&t=9s
+
 
 ### Beta Tester Thanks
 <details>
