@@ -209,6 +209,7 @@ If you made something neat for the SLAB, let me know about it! Email: IamSillybu
 - Paracord SLAB Handguard: https://www.printables.com/model/338606-paracord-slab-grip
 - SLAB Windowed Magwell: https://www.printables.com/model/338855-windowed-magwells-slab
 - Double Plunger Tube Abomination: https://www.thingiverse.com/thing:5663902 https://www.reddit.com/r/Nerf/comments/z6z8ic/double_plunger_slab_files/
+- Muzzle spacer for extremely short barrels on the SLAB: https://www.thingiverse.com/thing:5852265
 
 ## Hardware, Compatability, and Availability
 
