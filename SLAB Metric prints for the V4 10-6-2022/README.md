@@ -6,3 +6,4 @@
 
 ## These prints replace SOME of the normal SLAB v4 parts. The rest of the SLAB v4 parts require NO MODIFICATION. 
 
+## The print orientations on these parts are incorrect as imported. Follow the print orientation of the standard Imperial spec SLAB. Sorry for the inconvenience!
