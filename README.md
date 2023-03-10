@@ -195,27 +195,27 @@ These parts may not be updated to the current SLAB version. If you have issues, 
 If you made something neat for the SLAB, let me know about it! Email: IamSillybutts@gmail.com
 
 - *IMPERIAL SPEC*
-- Chopped Magwell with a spring instead of elastic: https://www.printables.com/model/323885-slab-magwell-with-compression-spring
-- Barrel shroud/cover: https://www.printables.com/model/308896-slab-shroud
-- Marksman Kit (longer top rail, cheek riser stock, new muzzle attachment): https://www.printables.com/model/312661-slab-marksman-package
-- Mares Leg Kit (Short chopped stock, swoopy giant lever): https://www.printables.com/model/321813-slab-mares-leg-kit
-- Flat Face "modern" Trigger: https://www.printables.com/model/297608-slab-flat-trigger
-- TPU Priming Lever Sleeve: https://www.printables.com/model/392377-slab-tpu-grip-sleeve
-- SLAB Skeletonized Stock: https://www.printables.com/model/386480-slab-skeleton-stock
-- SLAB X Slingfire Muzzle: https://www.thingiverse.com/thing:5754622
-- Flat SLAB Buttplate: https://www.thingiverse.com/thing:5752277
-- SLAB N-Strike Barrel Lug: https://www.printables.com/model/316254-slab-n-strike-barrel-lug
-- SLAB N-Strike Stock Attachment Point: https://www.printables.com/model/338615-n-strike-stock-attachment-for-slab
-- Tenderizer Muzzle Plate: https://www.printables.com/model/338618-tenderizer-front-plate-for-slab
-- Paracord SLAB Handguard: https://www.printables.com/model/338606-paracord-slab-grip
-- SLAB Windowed Magwell: https://www.printables.com/model/338855-windowed-magwells-slab
-- Double Plunger Tube Abomination: https://www.thingiverse.com/thing:5663902 https://www.reddit.com/r/Nerf/comments/z6z8ic/double_plunger_slab_files/
-- Muzzle spacer for extremely short barrels on the SLAB: https://www.thingiverse.com/thing:5852265
-- Rail B extension: https://www.thingiverse.com/thing:5901435
-- Single dart loading mag block: https://www.printables.com/model/390947-nerf-talon-single-load-block-for-sillybutts-slab
-- Stock and side panel picatinny, EXTRA TACTICOOL: https://www.printables.com/model/380984-slab-picatinny-rails
-- Imperial spec bar cutting jig: https://www.printables.com/model/342896-slab-caliburn-talonclaw-4-hole-template-imperial
-- Mega XL dart holder (picatinny mounted) (for MXL Spigot SCAR): https://www.printables.com/model/292339-mega-vertebre-rail-mounted-megaxl-dart-holder
+- - Chopped Magwell with a spring instead of elastic: https://www.printables.com/model/323885-slab-magwell-with-compression-spring
+- - Barrel shroud/cover: https://www.printables.com/model/308896-slab-shroud
+- - Marksman Kit (longer top rail, cheek riser stock, new muzzle attachment): https://www.printables.com/model/312661-slab-marksman-package
+- - Mares Leg Kit (Short chopped stock, swoopy giant lever): https://www.printables.com/model/321813-slab-mares-leg-kit
+- - Flat Face "modern" Trigger: https://www.printables.com/model/297608-slab-flat-trigger
+- - TPU Priming Lever Sleeve: https://www.printables.com/model/392377-slab-tpu-grip-sleeve
+- - SLAB Skeletonized Stock: https://www.printables.com/model/386480-slab-skeleton-stock
+- - SLAB X Slingfire Muzzle: https://www.thingiverse.com/thing:5754622
+- - Flat SLAB Buttplate: https://www.thingiverse.com/thing:5752277
+- - SLAB N-Strike Barrel Lug: https://www.printables.com/model/316254-slab-n-strike-barrel-lug
+- - SLAB N-Strike Stock Attachment Point: https://www.printables.com/model/338615-n-strike-stock-attachment-for-slab
+- - Tenderizer Muzzle Plate: https://www.printables.com/model/338618-tenderizer-front-plate-for-slab
+- - Paracord SLAB Handguard: https://www.printables.com/model/338606-paracord-slab-grip
+- - SLAB Windowed Magwell: https://www.printables.com/model/338855-windowed-magwells-slab
+- - Double Plunger Tube Abomination: https://www.thingiverse.com/thing:5663902 https://www.reddit.com/r/Nerf/comments/z6z8ic/double_plunger_slab_files/
+- - Muzzle spacer for extremely short barrels on the SLAB: https://www.thingiverse.com/thing:5852265
+- - Rail B extension: https://www.thingiverse.com/thing:5901435
+- - Single dart loading mag block: https://www.printables.com/model/390947-nerf-talon-single-load-block-for-sillybutts-slab
+- - Stock and side panel picatinny, EXTRA TACTICOOL: https://www.printables.com/model/380984-slab-picatinny-rails
+- - Imperial spec bar cutting jig: https://www.printables.com/model/342896-slab-caliburn-talonclaw-4-hole-template-imperial
+- - Mega XL dart holder (picatinny mounted) (for MXL Spigot SCAR): https://www.printables.com/model/292339-mega-vertebre-rail-mounted-megaxl-dart-holder
 
 - *METRIC SPEC*
 - - No current metric-specific parts.
