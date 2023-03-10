@@ -216,12 +216,15 @@ If you made something neat for the SLAB, let me know about it! Email: IamSillybu
 - - Stock and side panel picatinny, EXTRA TACTICOOL: https://www.printables.com/model/380984-slab-picatinny-rails
 - - Imperial spec bar cutting jig: https://www.printables.com/model/342896-slab-caliburn-talonclaw-4-hole-template-imperial
 - - Mega XL dart holder (picatinny mounted) (for MXL Spigot SCAR): https://www.printables.com/model/292339-mega-vertebre-rail-mounted-megaxl-dart-holder
+- - SLAB MLOK handguard (tacticool): https://www.printables.com/model/417044-slab-mlok-handguard-cut-at-an-angle
 
 - *METRIC SPEC*
 - - No current metric-specific parts.
 
 - *CHINA SPEC* (SuperPineapple)
 - - Very interesting stock and muzzle mods by misakimiku: https://www.thingiverse.com/thing:5833217
+- - MLOK Tactical handguard by hitako:https://www.thingiverse.com/thing:5716677
+- - Extra top rail by hitako: https://www.thingiverse.com/thing:5716674
 
 ## Hardware, Compatability, and Availability
 
