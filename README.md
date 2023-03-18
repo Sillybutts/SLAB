@@ -7,24 +7,39 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 <details>
 <summary>v4 (release) Changelog (click this text, it's a dropdown!)</summary>
 
-- Changelog: 8-25-22: Blaster release.
-- Changelog: 9-5-22: Updated parts. 
+- Changelog: 8-25-2022: Blaster release.
+- Changelog: 9-5-2022: Updated parts. 
   - MuzzleB now has a hole for poking the catch pivot pin out from the other side. 
   - There is now a thicker MuzzleB in the alternate files folder, made to be stronger. The thicker MuzzleB does not fit Longshot springs. 
   - Added a split version of all the levers to the alternate file folder. These are to fit in very small printers, 150x150x150mm minimum build size. Without the split lever, minimum build size for the SLAB is 170x170x150mm. 
   - Fixed some magwells missing clearance cuts for the feedguide. If you have an old magwell, just shave the edges near the feedguide to make space for it. 
   - Updated the SidePanels to remove some old beta testing leftovers. On each side, I removed a slot for longer pins on the lever, and I removed an extra screw hole for the two side bars.
- - Changelog: 9-21-22: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U https://youtu.be/0BNuwjhlNqI <img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="300">
- - Changelog: 9-22-22: Updated and added parts.
+ - Changelog: 9-21-2022: Uploaded v4 assembly video: https://www.youtube.com/watch?v=RuWvdPNgs6U https://youtu.be/0BNuwjhlNqI <img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="300">
+ - Changelog: 9-22-2022: Updated and added parts.
    - Added a new massive lever as a joke. It's really big, but it technically works.
    - Added new top rail segments without picatinny rail on them for a smooth look.
    - Added a new MuzzleA without an elastic channel to go with the...
    - Updated hanguards and catches to have a spot for a Lynx or Longshot catch spring, if you don't like the elastic catch. These parts are compatible with both the spring and the elastic at the same time, just put in whichever you want. <img src="GHimages/SLAB%204%20v172%203.png" width="500">
    - Updated CatchTighter to be -.5mm on each side, making it fit nicely right off the print bed. 
    - Updated both Turnarounds and all the magwells to move the screws that attach the two parts together. The new spot should be a lot stronger, and easier to reach while assembling. You can now reach the screws even if you already glued on your plunger tube. <img src="GHimages/SLAB%204%20v172%201.png" width="300"> <img src="GHimages/SLAB%204%20v172%202.png" width="300">
- - Changelog: 9-23-22: Updated parts.
+ - Changelog: 9-23-2022: Updated parts.
    - Updated the magwells and turnarounds (again) to make the attachment between the two stronger(er). More specifically, the dovetails are now slightly tighter, and they are also longer.
- - Changelog: 11-27-22: Updated print guide to say that the 'PlungerHead' part should be at 100% infill.
+ - Changelog: 11-27-2022: Updated print guide to say that the 'PlungerHead' part should be at 100% infill.
+ - Changelog: 3-18-2023: Tons of small changes and improvements:
+ - - Added Vikinger/Liam Mattingly's logo to the inside of the stock. He was the designer of the original stock the SLAB stock was based upon. Liam passed away suddenly a few months ago. There is also a short message inside the F3D source file of the SLAB, in the sketches.
+ - - Improved PlungerHead printing
+ - - Improved printing on every part lol
+ - - Added optional screw hole inside the right SidePanel for a screw. This is to then wrap a rubber band around the TriggerBlock, to tension the rod. That removes the rod wobble some people had trouble with.
+ - - Added new optional top rail above the reciever of the SLAB. TopCoverTopRail is the filename. 
+ - - Added experimental new ram with a cupped tip. This might improve airflow and reduce squibs, but more testing is needed.
+ - - Added experimental new trigger with better clearance with the lever. This should fix issues some people had where the trigger sticks in place near the end of the trigger pull.
+ - - Added experimental new left side panel with more clearance for the trigger rod. This should reduce rubbing.
+ - - Improved the magwell attachment to the turnaround. This was previously in the experimental folder, but is now the official main file. The tab on the bottom of the turnaround is thicker and more filleted, and there are now tightening wedges near the top of the dovetails that should make it less wiggly. 
+ - - Improved the screw holes on the optional bottlenose front ends to print nicer.
+ - - Added a little hook to the inside of the small spring hole on the Catch (both variants). This should make installing the optional spring easier.
+ - - Added optional spacers between the lever and the prime transfer bars. These spacers reduce wiggle. 
+ - - Probably more improvements that I can't remember. I did a lot of these improvements months ago and forgot to write them down lol.
+
    
 </details>
 
@@ -353,6 +368,8 @@ Thankfully, they are solveable.
 Blaster launches never go 100% smoothly, so please be understanding with any issues you have, as the design is still very fresh and hasn't gone through years of tweaking. 
 
 The following are common issues with the SLAB. If your issue isn't listed here, please message me (contact info at the bottom of this page).
+- Catch issues and/or gummy gritty trigger:
+- - This is usually caused by the catch being oversized or too tight. Take off the handguard (6 small screws), and take out the catch. The catch should slide 100% freely in the muzzle area, no noticable friction. DO NOT LUBRICATE IT, take out the catch and use sandpaper on the sides until it slides freely. The handguard does not need to be installed in order to test the blaster, only put on the handguard at the end of testing the fix. SilverFoxIndustries SLABs from before Spring 2023 are especially succeptible to this issue.
 - Flubs/Squibs: Flubs/Squibs are seemingly caused by several random things on the SLAB. Common causes include: 
 - - Barrel too long for given spring weight. Try using a shorter/longer barrel. As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
 - - Darts getting bent as they are chambered. This can be solved by changing which ram you are using. The flat face ram chambers smoother, but doesn't push the dart into the barrel as far as the pointy ram.
