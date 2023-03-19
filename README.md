@@ -39,8 +39,15 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
  - - Added a little hook to the inside of the small spring hole on the Catch (both variants). This should make installing the optional spring easier.
  - - Added optional spacers between the lever and the prime transfer bars. These spacers reduce wiggle. 
  - - Probably more improvements that I can't remember. I did a lot of these improvements months ago and forgot to write them down lol.
+    <img src="GHimages/SlabUpdateMarch2023%20(1).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(2).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(3).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(4).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(5).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(6).png" width="300">
+    <img src="GHimages/SlabUpdateMarch2023%20(7).png" width="300">
 
-   
+  
 </details>
 
 <img src="GHimages/SLAB%204%20v109%201.png" width="400">
