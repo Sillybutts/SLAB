@@ -243,7 +243,7 @@ If you made something neat for the SLAB, let me know about it! Email: IamSillybu
 - *METRIC SPEC*
 - - No current metric-specific parts.
 
-- *CHINA SPEC* (SuperPineapple)
+- *CHINA SPEC* (SuperPineapple) https://www.acfun.cn/v/ac40062210
 - - Very interesting stock and muzzle mods by misakimiku: https://www.thingiverse.com/thing:5833217
 - - MLOK Tactical handguard by hitako:https://www.thingiverse.com/thing:5716677
 - - Extra top rail by hitako: https://www.thingiverse.com/thing:5716674
