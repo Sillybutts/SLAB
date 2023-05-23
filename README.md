@@ -276,6 +276,8 @@ The v3 bar BETA hardware can be converted to a release v4 hardware kit by swappi
 </details>
 
 ### Sellers
+A full list of non-US sellers can be found here: https://www.stuffbysilly.com/wheretobuy
+
 Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-hardware-kit
 - OutOfDarts: https://outofdarts.com/collections/new-products/products/slab-hardware-kit
