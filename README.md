@@ -357,7 +357,10 @@ Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might 
 
 <img src="GHimages/WATCHTHEASSEMBLYVIDEO.png" width="500">
 
-Video: https://www.youtube.com/watch?v=RuWvdPNgs6U
+Video: https://www.youtube.com/watch?v=RuWvdPNgs6U (watch at 1.25x speed, I ramble a bit)
+
+Alternate assembly video (OOD): https://www.youtube.com/watch?v=PgvzgYeT_Lo
+
 Plunger Tube Glue Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
