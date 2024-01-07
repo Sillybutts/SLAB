@@ -365,11 +365,6 @@ Plunger Tube Glue Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 
 <img src="GHimages/SlabUpdateMarch2023%20(1).png" width="300">
 <img src="GHimages/SlabUpdateMarch2023%20(2).png" width="300">
-<img src="GHimages/SlabUpdateMarch2023%20(3).png" width="300">
-<img src="GHimages/SlabUpdateMarch2023%20(4).png" width="300">
-<img src="GHimages/SlabUpdateMarch2023%20(5).png" width="300">
-<img src="GHimages/SlabUpdateMarch2023%20(6).png" width="300">
-<img src="GHimages/SlabUpdateMarch2023%20(7).png" width="300">
 
 - Super glue or epoxy (or plumbers Goop, or hot glue or silicone or some other adhesive) is used to keep the plunger tube attached to the TurnaroundCap. MAKE SURE TO FOLLOW THE ASSEMBLY STEPS CORRECTLY WHEN ASSEMBLING THE PLUNGER AND TURNAROUND.
 - Put the -123 o-ring, the two 016 o-rings, and the nut/thumb screw into the turnaround BEFORE attaching the plunger tube.
