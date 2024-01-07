@@ -71,7 +71,8 @@ Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
 **The minimum build volume for the SLAB is 150x150x150mm with alternate Lever parts. 170x170x150mm with all the standard parts. Remember to rotate parts to make them fit on your bed optimally.**
 
-SLAB ASSEMBLY VIDEO: https://www.youtube.com/watch?v=RuWvdPNgs6U
+SLAB ASSEMBLY VIDEO: https://www.youtube.com/watch?v=RuWvdPNgs6U (watch at 1.25x speed, I ramble a bit)
+Alternate assembly video (OOD): https://www.youtube.com/watch?v=PgvzgYeT_Lo
 
 General blaster overview: https://youtu.be/Z2xsDboqWGA
 
