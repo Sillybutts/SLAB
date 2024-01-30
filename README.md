@@ -96,6 +96,16 @@ Videos:
 - WalcomS7: https://www.youtube.com/watch?v=ACKjuRBVfR4
 - Boomstick Mods: https://www.youtube.com/watch?v=W_mRjcNI2pQ&t=9s
 
+## I don't charge for my files, please consider supporting me! 
+
+**If you enjoy the stuff I make, please consider donating via Patreon or BuyMeACoffee. Filament and prototyping stuff costs a lot! By donating, I can make more cool stuff for everyone to enjoy. Thanks!**
+
+<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
+https://www.patreon.com/sillybutts Monthly donations
+
+<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
+https://www.buymeacoffee.com/sillybutts One-time donations
+
 
 ### Beta Tester Thanks
 <details>
@@ -423,8 +433,6 @@ The following are common issues with the SLAB. If your issue isn't listed here, 
 <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts Monthly donations
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
-
-And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 
 ## Images
