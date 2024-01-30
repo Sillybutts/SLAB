@@ -58,13 +58,6 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
-## Licensing
-
-**If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). iamsillybutts@gmail.com email too.**
-**你好！ 我擁有這個設計。 想生產請聯繫我. 你好！ 我拥有这个设计。 如果你想生产，请联系我.**
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
 ## Description
 
 **FOR ALL THE FILES YOU NEED TO PRINT, DOWNLOAD THE "STLs1 BASE FILES.zip" AND "STLs2 EXPERIMENTAL AND OPTIONAL.zip" FILES! THEY ARE HERE:** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs1%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs2%20EXPERIMENTAL%20AND%20OPTIONAL.zip
