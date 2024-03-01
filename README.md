@@ -46,7 +46,7 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
     <img src="GHimages/SlabUpdateMarch2023%20(5).png" width="300">
     <img src="GHimages/SlabUpdateMarch2023%20(6).png" width="300">
     <img src="GHimages/SlabUpdateMarch2023%20(7).png" width="300">
-
+ - Changelog: 2-29-2024: Added a new handguard to the Experimental and Optional folder. The handguard lets you loop a sling from the back of the handguard. 
   
 </details>
 
