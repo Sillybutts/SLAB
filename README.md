@@ -58,6 +58,12 @@ The SLAB: Silly's Lever Action Blaster. Talon fed lever action springer.
 
 Firing demo: https://www.youtube.com/watch?v=BpF1ejbNk0Q
 
+
+<a href="https://www.printables.com/model/822836-slab-sillys-lever-action-blaster-nerf-homemade"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/822836-slab-sillys-lever-action-blaster-nerf-homemade
+
+
 ## Description
 
 **FOR ALL THE FILES YOU NEED TO PRINT, DOWNLOAD THE "STLs1 BASE FILES.zip" AND "STLs2 EXPERIMENTAL AND OPTIONAL.zip" FILES! THEY ARE HERE:** https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs1%20BASE%20FILES.zip https://github.com/Sillybutts/SLAB/blob/main/SLAB%20v4%20Release/STLs2%20EXPERIMENTAL%20AND%20OPTIONAL.zip
