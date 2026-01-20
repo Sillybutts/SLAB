@@ -290,12 +290,12 @@ A full list of non-US sellers can be found here: https://www.stuffbysilly.com/wh
 
 Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-hardware-kit
-- OutOfDarts: https://outofdarts.com/collections/new-products/products/slab-hardware-kit
+- OutOfDarts: https://outofdarts.com/products/sillybutts-slab-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/slab-sillys-lever-action-blaster
 - SuperStressed3D: https://www.etsy.com/shop/SuperStressed3D
-- OutOfDarts: https://outofdarts.com/collections/new-products/products/slab-blaster-kit
+- OutOfDarts: https://outofdarts.com/products/sillybutts-slab-hardware-kit
 - BansheeIndian: https://www.etsy.com/shop/BansheesBlasters
 
 Upgrade parts are available from these sellers:
